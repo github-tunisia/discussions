@@ -1,2 +1,0 @@
-
-<!-- init CONTRIBUTING.md -->
